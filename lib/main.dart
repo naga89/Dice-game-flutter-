@@ -6,7 +6,7 @@ void main() {
     MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        bottomNavigationBar: const Text('created by Naga',
+        bottomNavigationBar: const Text('Created by Naga',
           textAlign: TextAlign.end,),
         appBar: AppBar(
           title: const Center(
